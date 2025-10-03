@@ -1,4 +1,4 @@
-# Task-7---Image-Resizer-Tool
+# Task-7 : Image-Resizer Tool
 
 NAME : PRATIK PATIL
 COMPANY : ELEVATE LABS
